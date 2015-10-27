@@ -1,0 +1,23 @@
+name: Illuminate Madison
+favicon: null
+layout_spectrum: 0.9955255438107997
+typography_spectrum: 0.5064219990745187
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.38363271579146385
+  lightness: 0.8955605074297637
+  saturation: 0.7621357752941549
+  rhythmicContrast: 0.9387715246994048
+purpose: []
